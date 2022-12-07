@@ -1,6 +1,6 @@
 {
-    "name": "ChatBoard",
-    "short_name": "ChatBoard",
+    "name": "CowChat",
+    "short_name": "CowChat",
     "icons": [
         {
             "src": "/public/assets/favicon/android-chrome-192x192.png",
