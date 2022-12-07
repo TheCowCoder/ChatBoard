@@ -1,0 +1,11 @@
+body {
+    background-color: lightblue;
+}
+
+#playerLst {
+    padding-left: 20px;
+}
+
+.playerUsernameTxt {
+    font-weight: bold;
+}
